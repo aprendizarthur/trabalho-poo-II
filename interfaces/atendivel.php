@@ -4,6 +4,6 @@ namespace interfaces;
 
 //interface que define métodos obrigatórios p/ classes que implementarem
 interface Atendivel{
-    public function atender();
-    public function finalizarAtendimento();
+    public function atender() : void ;
+    public function finalizarAtendimento() : void;
 }
