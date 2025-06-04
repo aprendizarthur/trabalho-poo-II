@@ -1,4 +1,5 @@
 **AVALIADO 85/100**
+
 Desenvolva um sistema em PHP orientado a objetos para gerenciar um hospital veterinário, utilizando o Composer para gerenciar dependências e autoload de classes, interfaces e traits. O sistema deve implementar os conceitos de propriedades, métodos, construtores, herança, relacionamentos, strict types, interfaces, encapsulamento, getters e traits, conforme especificado abaixo:
 
 1. **Classes e Relacionamentos**:
